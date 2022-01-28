@@ -1,0 +1,11 @@
+
+body{
+    background-color: rgb(241, 235, 174);
+}
+ol{
+    color: rgb(17, 26, 26);
+    font-size: 20px;
+}
+h1, h3{
+    color: blueviolet;
+}
